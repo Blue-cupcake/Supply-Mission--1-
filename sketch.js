@@ -55,6 +55,7 @@ function draw() {
   drawSprites();
 
   packageSprite.display();
+  helicopterSprite.display();
  
 
   
